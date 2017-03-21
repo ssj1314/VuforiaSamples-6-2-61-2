@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="A00020001085" size="0.420000 0.630986" />
+    <ImageTarget name="A00020000310" size="0.500000 0.756000" />
+    <ImageTarget name="A00020001041" size="0.460000 0.691080" />
+    <ImageTarget name="A00020000735" size="0.400000 0.600800" />
+    <ImageTarget name="A00020000289" size="0.450000 0.680400" />
+    <ImageTarget name="A00020000278" size="0.470000 0.710640" />
+    <ImageTarget name="A00020000147" size="0.500000 0.503000" />
+    <ImageTarget name="A00020000056" size="0.500000 0.696000" />
+    <ImageTarget name="A00020000925" size="0.490000 0.267624" />
+    <ImageTarget name="A00020000421" size="0.490000 1.225000" />
+    <ImageTarget name="A00020000118" size="0.490000 0.763420" />
+    <ImageTarget name="shaimobao" size="200.000000 200.000000" />
+  </Tracking>
+</QCARConfig>
